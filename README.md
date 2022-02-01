@@ -52,6 +52,8 @@ See [docs/Binary_Tooling](docs/Binary_Tooling)
 
 ### Tools for Binary Analysis and Modification
 
+* [mootool](https://github.com/hack-different/mootool) - FOSS Ruby Mach-O Tool (aims to replicate jtool2 feature set)
+* [ktool](https://github.com/cxnder/ktool) - FOSS Python Mach-O Tool
 * [checkra1n/toolchain](https://github.com/checkra1n/toolchain)
 * [alephsecurity/xnu-qemu-arm64](https://github.com/alephsecurity/xnu-qemu-arm64)
   * [alephsecurity/xnu-qemu-arm64-tools](https://github.com/alephsecurity/xnu-qemu-arm64-tools)
@@ -215,6 +217,7 @@ See [docs/Binary_Tooling](docs/Binary_Tooling)
 * [SEP_memmap](docs/SEP_memmap.md)
 * [sep.yaml](_data/sep.yaml.md)
 * [SEPROM](https://github.com/hekapooios/hekapooios.github.io/tree/master/resources/SEPROM)
+* [nyuszika7h/sepfinder](https://github.com/nyuszika7h/sepfinder)
 * <http://mista.nu/research/sep-paper.pdf?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US>
 * <https://www.theiphonewiki.com/wiki/Seputil>
 * <https://github.com/mwpcheung/AppleSEPFirmware>

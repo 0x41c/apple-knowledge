@@ -1,0 +1,12 @@
+data-update:
+- '_data/**'
+
+text-update:
+- '**/*.md'
+
+code-update:
+- '**/*.rb'
+- './Gemfile'
+- './Rakefile'
+- './_config.yml'
+- './.*'
